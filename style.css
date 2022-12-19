@@ -1,0 +1,71 @@
+html {
+    background-color: #ededed;
+}
+
+hr.solid {
+    border-top: 2px solid #bbbbbb;
+}
+
+body
+{
+    font-family: sans-serif;
+    margin: 1rem;
+}
+
+.navigation
+{
+    margin: 0;
+    float: right;
+    text-align: right;
+}
+
+.navigation li
+{
+    display: inline-block;
+}
+
+.text {
+    width: 50%;
+    line-height: 1.6;
+}
+
+.main1 {
+    background-color: #d0d0e5;
+    height: 100%;
+}
+
+.main2 {
+    background-color: #d0d0e5;
+    height: 100%;
+}
+
+.main3 {
+    background-color: #d0d0e5;
+    height: 100%;
+}
+
+.citations {
+    font-size: 0.75rem;
+}
+
+.image {
+    border-radius: 50%;
+}
+
+.image_with_text{
+    float: right;
+    display: block;
+    margin-right: 20%;
+    font-size: 0.7rem;
+    text-align: center;
+    color: #5f5f5f;
+}
+
+.image_with_text2{
+    float: right;
+    display: block;
+    margin-right: 10%;
+    font-size: 0.7rem;
+    text-align: center;
+    color: #5f5f5f;
+}
